@@ -2,9 +2,9 @@
 
 # Date:19/05/2026
 # Register no.212223240172
-# Aim: To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
+**Aim:** To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
 
-#AI Tools Required: 
+# AI Tools Required: 
 ChatGPT
 
 # Explanation: 
@@ -169,6 +169,8 @@ Reduces manual scheduling effort
 Provides personalized assistance
 Encourages healthy work habits
 Supports natural language communication
+
+
 **Output**
 [Uploading Building-a-Personal-Productivity-Assistant.pdf…]()
 
